@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MultipleImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5707703175301647346
+  m_GuidHigh: 5127772979343972535
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4913854525580271904
+      m_GuidHigh: 3413985141785922441
+    m_SerializedTextureGuid:
+      m_GuidLow: 4486933735691658690
+      m_GuidHigh: 15402248808480391338
+    m_Size: {x: 0.1, y: 0.095895894}
+    m_SpecifySize: 1
+    m_Name: bamboo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4988781791871051704
+      m_GuidHigh: 5720764903186659487
+    m_SerializedTextureGuid:
+      m_GuidLow: 6076598078094866142
+      m_GuidHigh: 16138803192748443416
+    m_Size: {x: 0.1, y: 0.07515625}
+    m_SpecifySize: 1
+    m_Name: fern
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5067314820997777046
+      m_GuidHigh: 879368548866085784
+    m_SerializedTextureGuid:
+      m_GuidLow: 9418155195817373369
+      m_GuidHigh: 15469043770099743066
+    m_Size: {x: 0.1, y: 0.0989}
+    m_SpecifySize: 1
+    m_Name: monstera
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5264710820680539894
+      m_GuidHigh: 13028457537972957322
+    m_SerializedTextureGuid:
+      m_GuidLow: 17659793159663895594
+      m_GuidHigh: 12228481979394000137
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: areca
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5323067080099646081
+      m_GuidHigh: 6587439811003457704
+    m_SerializedTextureGuid:
+      m_GuidLow: 17132845047108656561
+      m_GuidHigh: 15953062972523489514
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: prayer
+    m_Texture: {fileID: 0}
